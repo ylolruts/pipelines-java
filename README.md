@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/troychen147/Catelina/_apis/build/status/ylolruts.pipelines-java?branchName=master)](https://dev.azure.com/troychen147/Catelina/_build/latest?definitionId=3&branchName=master)
 
 # Contributing
 
